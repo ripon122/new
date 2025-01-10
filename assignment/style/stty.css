@@ -6,8 +6,10 @@
      display: flex;
      background-color: #C6E4D6;
      width: 1280px;
-     height: 400px;
-     padding: 10px;
+     height: 360px;
+     top: 0px;
+     left: 160px;
+     padding: 100px;
     
     
 }
@@ -48,7 +50,7 @@
     width:122 px;
     height:41 px;
   
-    background: color #5490f5 px;
+   color: rgb(84, 144, 245);
     a
   
 }
